@@ -1,19 +1,13 @@
 # MCLangCN
 
-适用于Minecraft基岩版的简体中文译名修正资源包。
+适用于Minecraft基岩版的简体中文译名修正资源包。<br>
 An optimised Chinese Simplified translation for Minecraft Bedrock Edition.
 
-按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布
+源储存库：[mclangcn](https://github.com/ff98sha/mclangcn)<br>
+Original: [mclangcn](https://github.com/ff98sha/mclangcn)
 
-License Under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed)
+按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布，与源储存库一致。<br>
+Under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), same as the source repository.
 
-Github: [https://github.com/ff98sha/mclangcn](https://github.com/ff98sha/mclangcn)
-
-苦力怕BBS：[https://klpbbs.com/thread-137794-1-1.html](https://klpbbs.com/thread-137794-1-1.html)
-
-MINEBBS：[https://www.minebbs.com/resources/8447/](https://www.minebbs.com/resources/8447/)
-
-该版本为Beta/Preview版，专门为游玩Preview/Beta版Minecraft基岩版玩家准备。
-
-已经过 @ff98sha 和 @Jingji132 授权，图片如下：
-Authorized by @ff98sha and @Jingji132, the picture is as follows:
+该库是专门为游玩Preview/Beta版Minecraft基岩版玩家准备的译名修正包已经过[@ff98sha](https://github.com/ff98sha)和[@Jingji132](https://github.com/Jingji132)授权，图片如下：<br>
+For Minecraft Beta/Preview, Authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132), the picture is as follows:
