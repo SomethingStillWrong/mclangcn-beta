@@ -18,3 +18,7 @@ For Minecraft Beta/Preview, authorized by [@ff98sha](https://github.com/ff98sha)
 ![授权截图](https://github.com/user-attachments/assets/3e0b5243-5859-4e6c-a3db-a2a2d6c1399b)
 
 ![授权截图](https://github.com/user-attachments/assets/73145fdb-6dd0-4782-b750-e41c99738df7)
+
+
+若有版权问题请联系我。
+If you think this is unauthorized, please contact me.
