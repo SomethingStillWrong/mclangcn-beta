@@ -1,4 +1,4 @@
-# MCLangCN
+# MCLangCN-Beta
 
 适用于Minecraft基岩版的简体中文译名修正资源包。<br>
 An optimised Chinese Simplified translation for Minecraft Bedrock Edition.
