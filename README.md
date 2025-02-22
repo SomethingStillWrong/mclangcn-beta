@@ -3,7 +3,7 @@
 适用于Minecraft基岩版的简体中文译名修正资源包。<br>
 An optimised Chinese Simplified translation for Minecraft Bedrock Edition.
 
-当前版本:1.21.70.24<br>
+当前版本：1.21.70.24<br>
 Current Version: 1.21.70.24
 
 源储存库：[mclangcn](https://github.com/ff98sha/mclangcn)<br>
