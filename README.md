@@ -11,3 +11,7 @@ Under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/de
 
 该库是专门为游玩Preview/Beta版Minecraft基岩版玩家准备的译名修正包，已经过[@ff98sha](https://github.com/ff98sha)和[@Jingji132](https://github.com/Jingji132)授权，图片如下：<br>
 For Minecraft Beta/Preview, authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132), the picture is as follows:
+
+![授权截图](https://github.com/user-attachments/assets/3e0b5243-5859-4e6c-a3db-a2a2d6c1399b)
+
+![授权截图](https://github.com/user-attachments/assets/73145fdb-6dd0-4782-b750-e41c99738df7)
