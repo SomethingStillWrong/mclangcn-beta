@@ -6,7 +6,7 @@ An optimised Chinese Simplified translation for Minecraft Bedrock Edition.
 当前版本：1.21.70.24<br>
 Current Version: 1.21.70.24
 
-For Minecraft Beta/Preview. Release version please click the link below.
+For Minecraft Beta/Preview. Release version please click the link below.<br>
 该库是专门为游玩Preview/Beta版Minecraft基岩版玩家准备的译名修正包，正式版请点击下方链接。
 
 源储存库：[mclangcn](https://github.com/ff98sha/mclangcn)<br>
