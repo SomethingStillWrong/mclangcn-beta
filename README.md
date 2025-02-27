@@ -1,24 +1,18 @@
 # MCLangCN-Beta
 
-适用于Minecraft基岩版的简体中文译名修正资源包。<br>
-An optimised Chinese Simplified translation for Minecraft Bedrock Edition.
+适用于Minecraft基岩版的简体中文译名修正资源包。本储存库专门为游玩Preview/Beta版Minecraft基岩版玩家准备的译名修正包，正式版请点击下方链接。<br>
+An optimised Chinese Simplified translation for Minecraft Bedrock Edition.For Minecraft Beta/Preview. Release version please click the link below.<br>
 
 当前版本：1.21.70.24<br>
 Current Version: 1.21.70.24
 
-For Minecraft Beta/Preview. Release version please click the link below.<br>
-该库是专门为游玩Preview/Beta版Minecraft基岩版玩家准备的译名修正包，正式版请点击下方链接。
 
 源储存库：[mclangcn](https://github.com/ff98sha/mclangcn)<br>
 Original: [mclangcn](https://github.com/ff98sha/mclangcn)
 
 
 
-按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布，与源储存库一致。<br>
-Under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), same as the source repository.
-
-已经过[@ff98sha](https://github.com/ff98sha)和[@Jingji132](https://github.com/Jingji132)授权<br>
-Authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132)
-
+按照[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-Hans)协议发布，与源储存库一致。已经过[@ff98sha](https://github.com/ff98sha)和[@Jingji132](https://github.com/Jingji132)授权<br>
+Under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), same as the source repository. Authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132)
 若有版权问题请联系我。<br>
 If you think this is unauthorized, please contact me.
