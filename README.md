@@ -18,12 +18,7 @@ Original: [mclangcn](https://github.com/ff98sha/mclangcn)
 Under the [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en), same as the source repository.
 
 已经过[@ff98sha](https://github.com/ff98sha)和[@Jingji132](https://github.com/Jingji132)授权，图片如下：<br>
-Authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132), the picture is as follows:
-
-![授权截图](https://github.com/user-attachments/assets/3e0b5243-5859-4e6c-a3db-a2a2d6c1399b)
-
-![授权截图](https://github.com/user-attachments/assets/73145fdb-6dd0-4782-b750-e41c99738df7)
-
+Authorized by [@ff98sha](https://github.com/ff98sha) and [@Jingji132](https://github.com/Jingji132)
 
 若有版权问题请联系我。<br>
 If you think this is unauthorized, please contact me.
