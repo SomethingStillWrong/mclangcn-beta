@@ -3,7 +3,7 @@
     "header": {
         "description": "No longer need to bear terrible translations.",
         "name": "BE Translation Patch",
-        "uuid": "6ab4515c-4f62-352c-aed6-e23022a8ebee",
+        "uuid": "1ed4af19-4c05-4fb6-9290-935681294a5b",
         "version": [1, 21, 80],
         "platform_locked" : false,
         "min_engine_version": [1, 21, 0]
@@ -12,7 +12,7 @@
         {
             "description": "No longer need to bear terrible translations.",
             "type": "resources",
-            "uuid": "6ee9332c-3615-4876-a061-0406d3725a80",
+            "uuid": "fc560b79-b2ac-4aa3-9f14-f0b875973834",
             "version": [1, 21, 0]
         }
     ]
