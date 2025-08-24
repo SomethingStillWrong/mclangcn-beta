@@ -4,7 +4,7 @@
         "description": "No longer need to bear terrible translations.",
         "name": "BE Translation Patch",
         "uuid": "1ed4af19-4c05-4fb6-9290-935681294a5b",
-        "version": [1, 21, 90],
+        "version": [1, 21, 110],
         "platform_locked" : false,
         "min_engine_version": [1, 21, 0]
     },
@@ -17,3 +17,4 @@
         }
     ]
 }
+
