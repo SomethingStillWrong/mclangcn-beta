@@ -1,0 +1,13 @@
+"project_id": "590029"
+"api_token": "8e8ca0246849a18772cd08176ffd78ba0dbe85878b4d603fad22fc28a6241b1a35aed04a0984b1c2"
+"base_path": "."
+"base_url": "https://api.crowdin.com"
+
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "",
+    "translation": "Translation/%original_file_name%"
+  },
+]
