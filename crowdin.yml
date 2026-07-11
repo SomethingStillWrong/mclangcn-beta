@@ -8,6 +8,6 @@
 "files": [
   {
     "source": "Translation/a.lang",
-    "translation": "Translation/%locale%.lang"
+    "translation": "Translation/%two_letters_code%_%original_file_name%"
   },
 ]
