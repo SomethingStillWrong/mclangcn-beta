@@ -24,14 +24,14 @@ jobs:
           tag_name: ${{ inputs.version_name }}
           name: ${{ inputs.version_name }}
           body: |
-            An optimized version of Chinese Simplified translation for Minecraft Bedrock Edition
+            适用于Minecraft基岩版的简体中文译名修正资源包。
 
-            <h2>Changelog</h2>
+            <h2>更新日志</h2>
 
-            - Update to BE Beta/Preview ${{ inputs.version_name }}
-            - Several Fix
+            - 更新至Beta/Preview ${{ inputs.version_name }}
+            - 修复了若干项问题
 
-            Note: Beta builds are not the final product.
+            注：Beta/Preview版本的译文可能无法代表最终版本的质量。
           
           files: |
             Bedrock.Translation.Patch.mcpack
