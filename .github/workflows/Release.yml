@@ -20,8 +20,6 @@ jobs:
         
       - name: Pack Translation Files
         run: |
-          # 示例：假设你要把仓库根目录下的所有文件打包（排除 .github 文件夹）
-          # .mcpack 本质上就是 zip 格式，所以直接用 zip 命令生成即可
           zip -r Bedrock.Translation.Patch.zip ./* -x ".github/*"
           cp Bedrock.Translation.Patch.zip Bedrock.Translation.Patch.mcpack
           
@@ -35,7 +33,7 @@ jobs:
 
             <h2>更新日志</h2>
 
-            - 更新至Beta/Preview ${{ inputs.version_name }}
+            - 更新至基岩版Beta/Preview ${{ inputs.version_name }}
             - 修复了若干项问题
 
             注：Beta/Preview版本的译文可能无法代表最终版本的质量。
