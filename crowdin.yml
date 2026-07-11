@@ -7,7 +7,7 @@
 
 "files": [
   {
-    "source": "",
-    "translation": "Translation/%original_file_name%"
+    "source": "Translation/a.lang",
+    "translation": "Translation/zh_CN.lang"
   },
 ]
