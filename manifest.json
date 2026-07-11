@@ -1,23 +1,24 @@
 {
-    "format_version": 3,
+    "format_version": 2,
     "header": {
         "description": "No longer need to bear terrible translations.",
         "name": "BE Translation Patch",
         "uuid": "6ab4515c-4f62-352c-aed6-e23022a8ebee",
-        "version": "1.26.0",
+        "version": [1, 26, 40],
         "platform_locked" : false,
-        "min_engine_version": "1.21.0"
+        "min_engine_version": [1, 26, 0]
     },
     "modules": [
         {
             "description": "No longer need to bear terrible translations.",
             "type": "resources",
             "uuid": "6ee9332c-3615-4876-a061-0406d3725a80",
-            "version": "1.26.0"
+            "version": [1, 26, 40]
         }
     ],
+    "capabilities": ["pbr"],
     "metadata": {
-        "authors": ["ff98sha","Jingji132"],
+        "authors": ["ff98sha", "Jingji132"],
         "license": "CC BY-NC-SA 4.0",
         "url": "https://github.com/ff98sha/mclangcn"
     }
