@@ -24,7 +24,7 @@ jobs:
           config: 'crowdin.yml'
         env:
           # A classic GitHub Personal Access Token with the 'repo' scope selected (the user should have write access to the repository).
-          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_TOKEN: 8e8ca0246849a18772cd08176ffd78ba0dbe85878b4d603fad22fc28a6241b1a35aed04a0984b1c2
           
           # A numeric ID, found at https://crowdin.com/project/<projectName>/tools/api
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
