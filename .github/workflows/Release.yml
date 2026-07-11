@@ -1,11 +1,10 @@
 name: Manual Release
 
 on:
-  # 手动触发
   workflow_dispatch:
     inputs:
       version_name:
-        description: '26.40.30'
+        description: '请输入版本号'
         required: true
         type: string
 
