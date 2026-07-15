@@ -6,7 +6,7 @@
 
 仅适用于Beta/Preview版。对于正式版请点击[此处](https://github.com/ff98sha/mclangcn)。
 
-已经过ff98sha和Jjngji132授权。
+已经过ff98sha和Jingji132授权。
 
 GitHub: [https://github.com/SomethingStillWrong/mclangcn-beta](https://github.com/SomethingStillWrong/mclangcn-beta)
 
