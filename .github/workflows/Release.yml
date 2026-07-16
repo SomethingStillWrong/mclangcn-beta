@@ -46,4 +46,4 @@ jobs:
           prerelease: false
           fail_on_unmatched_files: true 
         env:
-          GITHUB_TOKEN: 8e8ca0246849a18772cd08176ffd78ba0dbe85878b4d603fad22fc28a6241b1a35aed04a0984b1c2
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
