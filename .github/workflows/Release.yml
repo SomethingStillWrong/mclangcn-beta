@@ -43,7 +43,7 @@ jobs:
             Bedrock.Translation.Patch.zip
             
           draft: false
-          prerelease: true
+          prerelease: false
           fail_on_unmatched_files: true 
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
