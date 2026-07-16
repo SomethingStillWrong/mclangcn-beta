@@ -8,6 +8,6 @@
 
 已经过ff98sha和Jingji132授权。
 
-GitHub: [https://github.com/SomethingStillWrong/mclangcn-beta](https://github.com/SomethingStillWrong/mclangcn-beta)
+GitHub：[https://github.com/SomethingStillWrong/mclangcn-beta](https://github.com/SomethingStillWrong/mclangcn-beta)
 
 Crowdin：[https://zh.crowdin.com/project/mclangcn](https://zh.crowdin.com/project/mclangcn)
